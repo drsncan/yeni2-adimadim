@@ -1,0 +1,6 @@
+{
+  "name": "Adım Adım",
+  "description": "Zamanlayıcı, Görev Yönetimi, Not Tutma, Gelişmiş İstatistikler ve Profil özelliklerine sahip İnteraktif Odaklanma ve Verimlilik Mobil Uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
